@@ -20,7 +20,7 @@ O objetivo foi praticar análise de dados, visualização e interpretação de i
 ![Home](01.pagina_inicial.png)
 
 ### Dashboard
-![Dashboard](02.desempenho_comercial.png)
+![Dashboard](02. desempenho_ comercial.png)
 
 ## Principais Influeniadores
 ![Influenciadores](03.principais_influenciadores.png)
